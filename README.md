@@ -1,3 +1,3 @@
 # login18
-Giriş Ekranı
-Kaydol Ekranı
+Giriş Ekranıdır. <br>
+Kaydol Ekranıdır
